@@ -13,14 +13,6 @@ https://deploiement-de-modele-fast-api-et-docker.onrender.com
 ⚠️ Important : l’API étant hébergée sur Render (hébergement gratuit), elle peut mettre 30-60 secondes à démarrer à froid.
 Attendez qu’elle soit bien active avant d'utiliser l'application Streamlit, sinon vous aurez une erreur.
 
-## 🎯 Objectif
-Cette application permet :
-
-D’uploader un fichier CSV contenant des informations client.
-
-De prédire pour chaque client s’il risque de churn ou non.
-
-De visualiser les résultats directement dans l’interface.
 
 
 ## 📁 Structure du projet
