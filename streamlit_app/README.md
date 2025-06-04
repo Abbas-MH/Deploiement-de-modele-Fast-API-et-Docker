@@ -84,9 +84,12 @@ gender;SeniorCitizen;Partner;Dependents;tenure;PhoneService;MultipleLines;Intern
 
 
 
+
 **Exemple :**
 
 Female;0;Yes;No;12;Yes;No;DSL;Yes;No;No;Yes;No;No;Month-to-month;Yes;Electronic check;29,85;29,85
+
+Vous pouvez aussi télécharger le fichier **test_api3.csv**, accessible depuis le dossier principal, pour tester l'application.
 
 
 > 📌 **Attention : le format attendu est très strict.**
@@ -94,6 +97,7 @@ Female;0;Yes;No;12;Yes;No;DSL;Yes;No;No;Yes;No;No;Month-to-month;Yes;Electronic 
 > - Utilisez `;` comme séparateur de colonnes
 > - Utilisez `,` comme séparateur de décimales
 > - **Toutes les colonnes doivent être présentes**
+
 
 ---
 
